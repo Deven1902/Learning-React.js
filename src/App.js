@@ -28,3 +28,11 @@ function App() {
 }
 
 export default App;
+
+
+/*
+  git rm -r --cached .
+  git add .
+  git commit -m"removed all files from gitignore"
+  git push origin master
+*/ 
